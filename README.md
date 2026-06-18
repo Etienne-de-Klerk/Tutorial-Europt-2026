@@ -5,7 +5,7 @@
 > **https://github.com/PerformanceEstimation/Tutorial-Europt-2026**
 
 
-**Takes place at:** The [Europt 2026](https://www.jku.at/en/institute-of-business-analytics-and-technology-transformation/conference-europt-2026/) summer school will take place on 6-7 July at the Johannes Kepler Universität Linz, Austria.
+**Place:** The [Europt 2026](https://www.jku.at/en/institute-of-business-analytics-and-technology-transformation/conference-europt-2026/) summer school will take place on 6-7 July at the Johannes Kepler Universität Linz, Austria.
 
 **Schedule:** 4 x 90 minutes. 
 Monday, July 6: 14:00 – 15:30 and 16:00 – 17:30
